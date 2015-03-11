@@ -1,0 +1,35 @@
+.bannercontainer {
+  position: relative;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: #fff;
+  max-width: 1160px;
+}
+
+.banner {
+  position: relative;
+  max-width: 1160px;
+  height: 500px;
+  overflow: hidden;
+}
+
+.fullwidthbanner-container {
+  position: relative;
+  width: 100% !important;
+  padding: 0;
+  max-height: 500px !important;
+  overflow: hidden;
+}
+
+.fullwidthbanner-container .fullwidthbanner {
+  position: relative;
+  width: 100% !important;
+  max-height: 500px !important;
+}
+
+.fullscreenbanner-container {
+  width: 100% !important;
+  position: relative;
+  padding: 0;
+  height: 100%;
+}
