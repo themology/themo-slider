@@ -30,6 +30,6 @@ Themo Slider is easy to use jQuery image gallery and banner rotator with animate
 * Video playback to stop the timer
 * Lazy Load function to load each image separetely
 * Set Link and Target per slide
-Set Timer Position to Bottom or Top
-Randomize to show slides in a random order
-Cross browser support (Chrome, FireFox, Safari, Opera and IE7+)
+* Set Timer Position to Bottom or Top
+* Randomize to show slides in a random order
+* Cross browser support (Chrome, FireFox, Safari, Opera and IE7+)
